@@ -1,5 +1,4 @@
-# LH_CD
-Desafio para testar conhecimentos sobre a resoluçao de problemas de negócios, análise de dados e aplicação de modelos preditivos.
+# LH_CD - Desafio Cientista de Dados
 
 A análise exploratória encontra-se no arquivo LH_CD_MATHEUS_COSTA_MAQUINE.pdf
 
